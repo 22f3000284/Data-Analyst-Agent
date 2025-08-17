@@ -54,7 +54,6 @@ langchain_tracing/
 *.swp
 *.tmp
 *.old
-*.sh
 
 # Node
 node_modules/
